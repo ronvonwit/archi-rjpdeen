@@ -61,4 +61,16 @@
         xsi:type="archimate:ApplicationInterface"
         href="ApplicationInterface_id-0cf77223f402447cb0186363c4734925.xml#id-0cf77223f402447cb0186363c4734925"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1fd8d9bf35ea4d999a709b0b087d6842">
+    <bounds
+        x="390"
+        y="222"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-51a90c1da23b43bc84cefb607b242b2a.xml#id-51a90c1da23b43bc84cefb607b242b2a"/>
+  </children>
 </archimate:ArchimateDiagramModel>
